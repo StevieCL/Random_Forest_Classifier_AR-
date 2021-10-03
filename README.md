@@ -15,9 +15,9 @@ the chemical analysis that is carried out as the project develops.
 
 * **n_Exploratory_data_analysis:** This notebook performs a brief chemical-statistical analysis of the data that resulted from n_Data_exploration.
 
-* **Data_Model:** In this notebook the data is prepared to be able to train the model; PubChem fingerprints for each compound are calculated using PaDEL software.
+* **n_Data_Model:** In this notebook the data is prepared to be able to train the model; PubChem fingerprints for each compound are calculated using PaDEL software.
 
-* **ML_model:** The model (Random forest classifier) is created, trained and evaluated. Many conclusions are made from what is obtained.
+* **n_ML_model:** The model (Random forest classifier) is created, trained and evaluated. Many conclusions are made from what is obtained.
 
 ## Bibliography:
 
